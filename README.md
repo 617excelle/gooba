@@ -1,4 +1,4 @@
-# EXCELLE-QR-VERIFY-BOT
+QR-VERIFY-BOT
 Discord Bot that is a token grabber
 
 ## Contact
